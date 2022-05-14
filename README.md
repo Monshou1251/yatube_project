@@ -1,5 +1,14 @@
-# yatube_project
-Социальная сеть блогеров
+# Yatube_project
+
+## Desciption
+
+Social network of bloggers
+
+## Technologies
+
+Python 3.7.9
+Django 2.2.19
+
 
 Thats how we roll:
 
@@ -10,3 +19,4 @@ A --> C(Eat some pizza)
 B --> D{Repeat}
 C --> D
 ```
+
